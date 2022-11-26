@@ -1,6 +1,10 @@
-# Source Code for Let Graph be the Go Board: Gradient-free Node Injection Attack for Graph Neural Networks via Reinforcement Learning
+# Source Code for AAAI'23 paper: Let Graph be the Go Board: Gradient-free Node Injection Attack for Graph Neural Networks via Reinforcement Learning
+
+![G2A2C](G2A2C.png)
 
 ## Instruction 
+
+Hi all, this is the official repository for AAAI 2023 paper: **Let Graph be the Go Board: Gradient-free Node Injection Attack for Graph Neural Networks via Reinforcement Learning**. Our paper can be found at [[arXiv link]](https://arxiv.org/abs/2211.10782). We sincerely apprecaite your interests in our projects!
 
 To reproduce our experiments on Cora, Citeseer, Pubmed, Am. Photo, Am. Comp., Wiki. CS., please simple run the following code 
 
